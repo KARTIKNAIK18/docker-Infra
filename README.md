@@ -140,7 +140,6 @@ terraform state
 
 ## 📸 Project Screenshots
 
-> Place your screenshots in the `assets/` folder and update the paths below.
 
 ### ✅ Terraform Apply Output
 
